@@ -1,13 +1,6 @@
-# Credit Risk Assessment: Loan Default Prediction
-
-## Predicting Creditworthiness Using Machine Learning
-
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Data Source](https://img.shields.io/badge/Data-UCI%20ML%20Repository-orange.svg)](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
+# Credit Risk Assessment: Credit Default Prediction
 
 
----
 
 ## Executive Summary
 
