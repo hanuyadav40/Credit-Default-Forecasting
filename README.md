@@ -6,11 +6,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Data Source](https://img.shields.io/badge/Data-UCI%20ML%20Repository-orange.svg)](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
 
-**Author:** Jamiu Olamilekan Badmus  
-**Email:** jamiubadmus001@gmail.com  
-**LinkedIn:** [Jamiu Olamilekan Badmus](https://www.linkedin.com/in/jamiu-olamilekan-badmus-9276a8192/)  
-**GitHub:** [jamiubadmusng](https://github.com/jamiubadmusng)  
-**Website:** [sites.google.com/view/jamiu-olamilekan-badmus](https://sites.google.com/view/jamiu-olamilekan-badmus/)
 
 ---
 
